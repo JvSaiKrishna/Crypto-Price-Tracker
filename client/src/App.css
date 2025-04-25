@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+.table{
+  overflow: auto;
+}
+
+h1{
+  text-align: center;
+  margin: 30px;
+}
+
+table{
+  min-width: 100vw;
+  height: 60vh;
+  border:1px solid black;
+  
+}
+
+thead tr th{
+  font-weight: 800;
+  padding:0 10px 10px 10px;
+}
+
+th, td {
+  border-bottom: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+}
+
+tbody tr td{
+  padding:0 10px 10px 10px;
+}
+
+.logo{
+  width: 30px;
+  height: 30px;
+  
+}
+.chart{
+  width: 100px;
+  height: 30px;
+  
+}
+
