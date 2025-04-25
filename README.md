@@ -10,7 +10,8 @@
 - **Deployment:** GitHub Page
 
 
---- ## 📊 Features 
+--- 
+## 📊 Features 
 - ✅ Display 5 popular crypto assets in a responsive table 
 - ✅ Simulate real-time price and volume updates every 1–2 seconds 
 - ✅ Color-code percentage changes (green = gain, red = loss) 
