@@ -11,12 +11,12 @@
 
 
 --- ## 📊 Features 
-✅ Display 5 popular crypto assets in a responsive table 
-✅ Simulate real-time price and volume updates every 1–2 seconds 
-✅ Color-code percentage changes (green = gain, red = loss) 
-✅ Static 7D trend charts 
-✅ State fully managed via Redux (no local state) 
-✅ Optimized with Redux selectors 
+- ✅ Display 5 popular crypto assets in a responsive table 
+- ✅ Simulate real-time price and volume updates every 1–2 seconds 
+- ✅ Color-code percentage changes (green = gain, red = loss) 
+- ✅ Static 7D trend charts 
+- ✅ State fully managed via Redux (no local state) 
+- ✅ Optimized with Redux selectors 
 
 ## ⚙️ Getting Started 
 
